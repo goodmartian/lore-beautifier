@@ -26,14 +26,18 @@ CSS does all the styling. JS does only DOM work.
 
 ## Install
 
-### Stylus
+### Stylus (CSS)
+
+Install from [UserStyles.world](https://userstyles.world/style/27136/lore-beautifier), or manually:
 
 1. Install [Stylus](https://addons.mozilla.org/firefox/addon/styl-us/)
 2. Open `lore.kernel.org`
 3. Click Stylus icon, click the domain name
 4. Paste `lore-beautifier.user.css`, Ctrl+S
 
-### Tampermonkey
+### Tampermonkey (JS)
+
+Install from [Greasy Fork](https://greasyfork.org/scripts/570025-lore-beautifier-header), or manually:
 
 1. Install [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)
 2. Dashboard -> new script
