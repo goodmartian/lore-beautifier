@@ -56,10 +56,6 @@ Reload. Done.
 
 Ratios against `#141518`.
 
-## Why not a browser extension?
-
-The minimal HTML on lore is intentional -- it works in `lynx`, `w3m`, and every text browser. The public-inbox devs point users to a [userContent.css sample](https://lore.kernel.org/linux-wireless/_/text/color/) and expect customization to happen client-side. Stylus + Tampermonkey is the right tool for this.
-
 ## License
 
 MIT
